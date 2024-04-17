@@ -1,0 +1,76 @@
+
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:05:42>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:05:43>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:05:44>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:05:52>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:05:59>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:06:02>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:06:07>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:06:08>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:06:12>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:06:12>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:06:18>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:06:22>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:06:22>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:06:23>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/CPEN412/final/tmp/lpm_bustri2.vhd
+
+Apr 13 06PM:06:24>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted

@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "sp.h": "c",
+        "dm.h": "c",
+        "ctype.h": "c",
+        "string.h": "c",
+        "sp.C": "cpp",
+        "sp.H": "cpp",
+        "lab6Bt.C": "cpp",
+        "lab6bi.C": "cpp",
+        "lab6B.C": "cpp",
+        "DM.H": "cpp",
+        "MUP.C": "cpp",
+        "tetris.h": "c",
+        "MD.C": "cpp",
+        "tetris.C": "cpp"
+    }
+}
